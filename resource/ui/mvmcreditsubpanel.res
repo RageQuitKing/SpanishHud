@@ -162,7 +162,7 @@
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"0 0 0 50"
+		"bgcolor_override"							"0 0 0 200"
 
 		"pin_to_sibling"							"TableBackground"
 		"pin_corner_to_sibling"						"PIN_CENTER_RIGHT"
